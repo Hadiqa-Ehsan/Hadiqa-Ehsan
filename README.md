@@ -1,92 +1,120 @@
-# 👩‍💻 Hadiqa Ehsan
 
-🚀 **AI Enthusiast | Full-Stack Developer | BSCS Student**
+
+---
+<h1 align="center">👋 Hi, I'm Hadiqa Ehsan</h1>
+<h3 align="center">🚀 AI Engineer | Full-Stack Developer | BSCS Student</h3>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?lines=AI+Enthusiast;MERN+Stack+Developer;Machine+Learning+Engineer;Building+Smart+Applications&center=true&width=550&height=50">
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Hadiqa-Ehsan&label=Profile%20Views&color=0e75b6&style=flat" alt="views"/>
+</p>
 
 ---
 
-## 🌟 About Me
+## 🧑‍💼 About Me
 
-I am a passionate Computer Science student with a strong interest in **Artificial Intelligence, Machine Learning, and Full-Stack Development**.
-I enjoy building real-world projects and continuously improving my skills in modern technologies.
+💡 Passionate **AI & Full-Stack Developer**
+🎓 BS Computer Science Student
+🤖 Building intelligent systems using Machine Learning & Deep Learning
+🌐 Creating modern web applications with MERN Stack
+🎯 Goal: Become a top-tier AI Engineer & build impactful products
 
 ---
 
-## 💡 Skills
+## ⚡ What I Do
 
-### 👨‍💻 Programming Languages
+🔹 **Web Development**
+Building scalable, responsive and modern web applications
 
-* Python
-* JavaScript
-* C#
-* PHP
+🔹 **Artificial Intelligence**
+Developing ML models, recommendation systems & classifiers
 
-### ⚙️ Technologies & Tools
+🔹 **Data Science**
+Analyzing real-world data using Pandas, NumPy & visualization
 
-* MERN Stack (MongoDB, Express, React, Node.js)
-* Machine Learning (Scikit-learn, Pandas, NumPy)
-* Deep Learning (PyTorch)
-* Git & GitHub
+🔹 **UI/UX Design**
+Designing clean, professional and user-friendly interfaces
+
+---
+
+## 🚀 Tech Stack
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=python,js,react,nodejs,mongodb,php,cs,pytorch,git" />
+
+</p>
 
 ---
 
 ## 📂 Featured Projects
 
-### 🤖 AI & Machine Learning
+### 🤖 AI / Machine Learning
 
-* **AI Plant Disease Detector**
-* **CNN Image Classifier (Cat vs Dog)**
-* **Movie Recommendation System**
-* **Sentiment AI (C# ML.NET)**
+* 🔸 CNN Image Classifier (Cat vs Dog)
+* 🔸 AI Plant Disease Detector
+* 🔸 Movie Recommendation System
+* 🔸 Sentiment Analysis (ML.NET)
 
 ### 🌐 Web Development
 
-* **PropTrack (MERN)** – Real estate platform
-* **Clinic Management System (PHP)**
-* **WebCV Portfolio Website**
+* 🔸 PropTrack (MERN Real Estate Platform)
+* 🔸 Clinic Management System
+* 🔸 WebCV Portfolio Website
 
 ### 📊 Data Science
 
-* Sales Data Analyzer
-* Student Performance Analyzer
-* Employee Performance Analyzer
-
-### 🧩 Beginner Projects
-
-* Budget Tracker
-* Scientific Calculator
-* Hangman Game
-* Chat Interface
+* 🔸 Sales Data Analyzer
+* 🔸 Student Performance Analyzer
+* 🔸 Employee Performance Analyzer
 
 ---
 
-## 📈 Current Focus
+## 📊 GitHub Analytics
 
-* Advanced Machine Learning & Deep Learning
-* AI-based Web Applications
-* Startup-level project development
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Hadiqa-Ehsan&show_icons=true&theme=tokyonight&hide_border=true" height="160"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Hadiqa-Ehsan&theme=tokyonight&hide_border=true" height="160"/>
+</p>
 
----
-
-## 📫 Contact Me
-
-📧 **Email:** [hadiqaehsan@example.com](mailto:hadiqaehsan@example.com)
-💼 **LinkedIn:** https://linkedin.com/in/your-linkedin
-🐙 **GitHub:** https://github.com/Hadiqa-Ehsan
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hadiqa-Ehsan&layout=compact&theme=tokyonight&hide_border=true" height="150"/>
+</p>
 
 ---
 
-## 🔗 Professional Links (Badges)
+## 🏆 Achievements
 
-[![GitHub](https://img.shields.io/badge/GitHub-Hadiqa--Ehsan-black?style=for-the-badge\&logo=github)](https://github.com/Hadiqa-Ehsan)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge\&logo=linkedin)](https://linkedin.com/in/your-linkedin)
-[![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge\&logo=gmail)](mailto:hadiqaehsan@example.com)
-
----
-
-## ⚡ Fun Fact
-
-I love turning ideas into real-world applications through code 💻✨
+✔ Built multiple AI & ML projects
+✔ Developed full-stack MERN applications
+✔ Strong foundation in Data Science & Programming
 
 ---
 
-⭐ *Feel free to explore my repositories and support by giving a star!*
+## 📫 Connect With Me
+
+<p align="center">
+  <a href="https://www.linkedin.com/feed/">
+    <img src="https://img.shields.io/badge/LinkedIn-Hadiqa%20Ehsan-blue?style=for-the-badge&logo=linkedin">
+  </a>
+  <a href="hadiqaehsan4@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail">
+  </a>
+  <a href="https://github.com/Hadiqa-Ehsan">
+    <img src="https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github">
+  </a>
+</p>
+
+---
+
+## 💡 Quote
+
+✨ *"Turning ideas into intelligent real-world solutions through code"*
+
+---
+
+⭐ **From [Hadiqa-Ehsan](https://github.com/Hadiqa-Ehsan)**
+
