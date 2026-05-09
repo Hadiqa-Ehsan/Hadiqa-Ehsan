@@ -104,9 +104,8 @@
 </div>
 
 <div align="center">
-  
-  <div style="background: #0D1117; border-radius: 16px; padding: 20px; margin: 20px; max-width: 600px;">
-    <h3>Language Proficiency</h3>
+  <div style="background: #0D1117; border-radius: 16px; padding: 20px; margin: 20px auto; max-width: 650px;">
+    <h3 align="center">Language Proficiency</h3>
     
     <div align="left" style="padding: 15px;">
       
@@ -154,9 +153,7 @@
       
     </div>
   </div>
-  
 </div>
-
 ---
 
 <div align="center">
