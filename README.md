@@ -1,4 +1,3 @@
-
 <div align="center">
   
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:FF6B6B&height=180&width=1000&text=Hadiqa%20Ehsan&fontSize=45&fontColor=FFFFFF&fontAlignY=35" width="100%"/>
@@ -19,7 +18,7 @@
 
 <div align="center">
   <h2>
-    About Me
+    👩‍💻 About Me
   </h2>
 </div>
 
@@ -32,6 +31,7 @@
         <li>🤖 Building intelligent systems using <b>ML & Deep Learning</b></li>
         <li>🌐 Creating modern web applications with <b>MERN Stack</b></li>
         <li>🎯 Goal: Become a top-tier <b>AI Engineer</b></li>
+        <li>⚡ Fun fact: I love solving complex problems with code</li>
       </ul>
     </td>
     <td width="45%" align="center">
@@ -44,7 +44,7 @@
 
 <div align="center">
   <h2>
-    What I Do
+    ⚡ What I Do
   </h2>
 </div>
 
@@ -87,7 +87,7 @@
 
 <div align="center">
   <h2>
-    Tech Stack
+    🚀 Tech Stack
   </h2>
 </div>
 
@@ -99,54 +99,59 @@
 
 <div align="center">
   <h2>
-    Language Usage
+    📊 Language Usage
   </h2>
 </div>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hadiqa-Ehsan&layout=donut&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7FF&text_color=FFFFFF&size_weight=0.5&count_weight=0.5" width="500"/>
-</p>
-
 <div align="center">
   
-  <div style="background: #0D1117; border-radius: 16px; padding: 20px; margin: 20px;">
+  <div style="background: #0D1117; border-radius: 16px; padding: 20px; margin: 20px; max-width: 600px;">
     <h3>Language Proficiency</h3>
     
     <div align="left" style="padding: 15px;">
-      <div style="margin: 12px 0;">
+      
+      <div style="margin: 15px 0;">
         <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-        <div style="background: #1a1a2e; border-radius: 8px; height: 24px; width: 100%; margin-top: 5px; overflow: hidden;">
-          <div style="background: #00F7FF; width: 90%; height: 24px; border-radius: 8px; text-align: center; color: #0D1117; line-height: 24px; font-weight: bold;">90%</div>
+        <div style="background: #1a1a2e; border-radius: 8px; height: 28px; width: 100%; margin-top: 5px; overflow: hidden;">
+          <div style="background: #00F7FF; width: 90%; height: 28px; border-radius: 8px; text-align: center; color: #0D1117; line-height: 28px; font-weight: bold;">90%</div>
         </div>
       </div>
       
-      <div style="margin: 12px 0;">
+      <div style="margin: 15px 0;">
         <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-        <div style="background: #1a1a2e; border-radius: 8px; height: 24px; width: 100%; margin-top: 5px; overflow: hidden;">
-          <div style="background: #FFD93D; width: 85%; height: 24px; border-radius: 8px; text-align: center; color: #0D1117; line-height: 24px; font-weight: bold;">85%</div>
+        <div style="background: #1a1a2e; border-radius: 8px; height: 28px; width: 100%; margin-top: 5px; overflow: hidden;">
+          <div style="background: #FFD93D; width: 85%; height: 28px; border-radius: 8px; text-align: center; color: #0D1117; line-height: 28px; font-weight: bold;">85%</div>
         </div>
       </div>
       
-      <div style="margin: 12px 0;">
+      <div style="margin: 15px 0;">
         <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
-        <div style="background: #1a1a2e; border-radius: 8px; height: 24px; width: 100%; margin-top: 5px; overflow: hidden;">
-          <div style="background: #4D96FF; width: 75%; height: 24px; border-radius: 8px; text-align: center; color: white; line-height: 24px;">75%</div>
+        <div style="background: #1a1a2e; border-radius: 8px; height: 28px; width: 100%; margin-top: 5px; overflow: hidden;">
+          <div style="background: #4D96FF; width: 75%; height: 28px; border-radius: 8px; text-align: center; color: white; line-height: 28px; font-weight: bold;">75%</div>
         </div>
       </div>
       
-      <div style="margin: 12px 0;">
+      <div style="margin: 15px 0;">
         <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"/>
-        <div style="background: #1a1a2e; border-radius: 8px; height: 24px; width: 100%; margin-top: 5px; overflow: hidden;">
-          <div style="background: #6BCB77; width: 70%; height: 24px; border-radius: 8px; text-align: center; color: white; line-height: 24px;">70%</div>
+        <div style="background: #1a1a2e; border-radius: 8px; height: 28px; width: 100%; margin-top: 5px; overflow: hidden;">
+          <div style="background: #6BCB77; width: 70%; height: 28px; border-radius: 8px; text-align: center; color: white; line-height: 28px; font-weight: bold;">70%</div>
         </div>
       </div>
       
-      <div style="margin: 12px 0;">
-        <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-        <div style="background: #1a1a2e; border-radius: 8px; height: 24px; width: 100%; margin-top: 5px; overflow: hidden;">
-          <div style="background: #9B59B6; width: 80%; height: 24px; border-radius: 8px; text-align: center; color: white; line-height: 24px;">80%</div>
+      <div style="margin: 15px 0;">
+        <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
+        <div style="background: #1a1a2e; border-radius: 8px; height: 28px; width: 100%; margin-top: 5px; overflow: hidden;">
+          <div style="background: #FF6B6B; width: 65%; height: 28px; border-radius: 8px; text-align: center; color: white; line-height: 28px; font-weight: bold;">65%</div>
         </div>
       </div>
+      
+      <div style="margin: 15px 0;">
+        <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+        <div style="background: #1a1a2e; border-radius: 8px; height: 28px; width: 100%; margin-top: 5px; overflow: hidden;">
+          <div style="background: #9B59B6; width: 80%; height: 28px; border-radius: 8px; text-align: center; color: white; line-height: 28px; font-weight: bold;">80%</div>
+        </div>
+      </div>
+      
     </div>
   </div>
   
@@ -156,12 +161,12 @@
 
 <div align="center">
   <h2>
-    GitHub Analytics
+    📈 GitHub Analytics
   </h2>
 </div>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Hadiqa-Ehsan&show_icons=true&theme=tokyonight&hide_border=false&bg_color=0D1117&title_color=00F7FF&icon_color=FF6B6B&text_color=FFFFFF" height="200"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Hadiqa-Ehsan&show_icons=true&theme=tokyonight&hide_border=false&bg_color=0D1117&title_color=00F7FF&icon_color=FF6B6B&text_color=FFFFFF&hide=contribs" height="200"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Hadiqa-Ehsan&theme=tokyonight&hide_border=false&background=0D1117&ring=00F7FF&fire=FF6B6B&currStreakLabel=00F7FF" height="200"/>
 </p>
 
@@ -183,7 +188,7 @@
 
 <div align="center">
   <h2>
-    Featured Projects
+    📂 Featured Projects
   </h2>
 </div>
 
@@ -194,7 +199,7 @@
         <div style="background: #0D1117; border-radius: 12px; padding: 15px;">
           <img src="https://cdn-icons-png.flaticon.com/512/1995/1995574.png" width="40px"/>
           <h3>CNN Image Classifier</h3>
-          <p>Cat vs Dog classification</p>
+          <p>Cat vs Dog classification with 95% accuracy</p>
           <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
           <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white"/>
         </div>
@@ -203,7 +208,7 @@
         <div style="background: #0D1117; border-radius: 12px; padding: 15px;">
           <img src="https://cdn-icons-png.flaticon.com/512/4021/4021377.png" width="40px"/>
           <h3>PropTrack</h3>
-          <p>MERN Real Estate Platform</p>
+          <p>MERN Real Estate Platform with Chat & Maps</p>
           <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
           <img src="https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white"/>
         </div>
@@ -212,7 +217,7 @@
         <div style="background: #0D1117; border-radius: 12px; padding: 15px;">
           <img src="https://cdn-icons-png.flaticon.com/512/3132/3132693.png" width="40px"/>
           <h3>AI Plant Disease Detector</h3>
-          <p>Detects plant diseases</p>
+          <p>Detects 15 plant diseases in real-time</p>
           <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white"/>
           <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white"/>
         </div>
@@ -225,7 +230,7 @@
 
 <div align="center">
   <h2>
-    Achievements
+    🏆 Achievements
   </h2>
 </div>
 
@@ -255,6 +260,16 @@
       <td>10+</td>
       <td>████████████████████ 100%</td>
     </tr>
+    <tr>
+      <td>📚 Frameworks Learned</td>
+      <td>20+</td>
+      <td>██████████████████░░ 85%</td>
+    </tr>
+    <tr>
+      <td>⭐ GitHub Stars</td>
+      <td>50+</td>
+      <td>████████████░░░░░░░░ 60%</td>
+    </tr>
   </table>
 </div>
 
@@ -262,7 +277,7 @@
 
 <div align="center">
   <h2>
-    Connect With Me
+    📫 Connect With Me
   </h2>
 </div>
 
@@ -290,7 +305,7 @@
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" width="600"/>
   
   <h3>
-    "Turning ideas into intelligent solutions through code"
+    ✨ "Turning ideas into intelligent solutions through code" ✨
   </h3>
   
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=80&section=footer"/>
